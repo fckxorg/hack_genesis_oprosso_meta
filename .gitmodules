@@ -1,0 +1,9 @@
+[submodule "hack_genesis_oprosso_web"]
+	path = hack_genesis_oprosso_web
+	url = https://github.com/BorisTab/hack_genesis_oprosso_web
+[submodule "hack_genesis_oprosso_sys"]
+	path = hack_genesis_oprosso_sys
+	url = https://github.com/fckxorg/hack_genesis_oprosso_sys
+[submodule "hack_genesis_oprosso_mobile"]
+	path = hack_genesis_oprosso_mobile
+	url = https://github.com/AlgebraicWolf/hack_genesis_oprosso_mobile
